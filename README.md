@@ -6,3 +6,5 @@
 #
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,html,js,c,php,css,vscode&theme=dark)](https://skillicons.dev)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaslabendzs&show_icons=true)
