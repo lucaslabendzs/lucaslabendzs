@@ -1,4 +1,4 @@
-# Hello World 👋
+# Hello World!👋
 
 🎓 Estudante na Universidade Federal do Paraná.
 
