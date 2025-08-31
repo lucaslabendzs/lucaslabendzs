@@ -1,6 +1,6 @@
 Hello World 👋
 
-🎓 Estudante de TADS na UFPR.
+🎓 Estudante na Universidade Federal do Paraná.
 
 💻 Aprendendo e desenvolvendo projetos em programação.
 
