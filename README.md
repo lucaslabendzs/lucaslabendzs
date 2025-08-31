@@ -7,6 +7,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,html,js,c,php,css,vscode&theme=dark)](https://skillicons.dev)
 #
-### Estatíticas
+### Estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent&include_all_commits)
