@@ -4,4 +4,4 @@ Hello World 👋
 
 💻 Aprendendo e desenvolvendo projetos em programação.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,c,wasm)](https://skillicons.dev)
