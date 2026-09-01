@@ -4,5 +4,5 @@
 
 💻 Learning and developing projects
 #
-[![My Skills](https://skillicons.dev/icons?i=mysql,html,js,c,php,css,vscode,git,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,js,c,php,css,vscode,git,github&theme=dark)](https://skillicons.dev)
 
