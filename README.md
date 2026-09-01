@@ -1,8 +1,8 @@
-# Hello World!👋
+# Hi 👋, I'm Lucas Labendzs
 
-🎓 Estudante na Universidade Federal do Paraná.
+🎓 Student at the Federal University of Paraná.
 
-💻 Aprendendo e desenvolvendo projetos
+💻 Learning and developing projects
 #
 [![My Skills](https://skillicons.dev/icons?i=mysql,html,js,c,php,css,vscode,git,github&theme=dark)](https://skillicons.dev)
 
